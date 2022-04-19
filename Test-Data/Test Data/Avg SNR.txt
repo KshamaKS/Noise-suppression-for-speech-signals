@@ -1,0 +1,3 @@
+5DB test data: 4.9853DB
+10DB test data: 9.9946DB
+15DB test data: 15.0015DB
